@@ -1,5 +1,9 @@
 # Guided Access Pomodoro
 
+> ✦ **Source by NYRA**
+>
+> 源码由 NYRA 编写。拿去用、拿去改都可以；转发或再发布源码时，请把 NYRA 的署名和 MIT 许可证一起留下，别抹掉后说成自己的原创就好。
+
 一个可直接放进网页或 PWA 的通用番茄钟组件。它配合 iPhone 自带的“引导式访问”，把设备暂时限制在当前 PWA：计时期间不能回桌面或切换到其他 App，但当前页面仍可正常操作。
 
 > 这不是网页遮罩，也不是熄屏锁机。真正的单 App 限制由 iOS Guided Access 提供。
@@ -55,3 +59,5 @@ const realtimeContext = GuidedAccessPomodoro.prompt();
 ## License
 
 [MIT](./LICENSE)
+
+“Source by NYRA”只说明本仓库源码的来源，不主张拥有 iOS、Guided Access、平台名称、系统接口或任何第三方材料。

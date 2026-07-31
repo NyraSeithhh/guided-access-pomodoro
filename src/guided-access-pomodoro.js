@@ -1,5 +1,7 @@
 /*
  * Guided Access Pomodoro
+ * Source by NYRA ✦ — please keep this credit when sharing the source.
+ * This attribution covers this repository's source code only.
  * MIT License — https://github.com/NyraSeithhh/guided-access-pomodoro
  */
 (function(global){

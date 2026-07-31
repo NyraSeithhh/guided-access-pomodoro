@@ -2,6 +2,7 @@
   "name": "guided-access-pomodoro",
   "version": "1.0.0",
   "description": "A zero-dependency Pomodoro widget with iOS Guided Access single-app focus guidance.",
+  "author": "NYRA",
   "license": "MIT",
   "private": false,
   "repository": {
