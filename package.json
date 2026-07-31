@@ -1,17 +1,16 @@
 {
-  "name": "sillage-focus-pomodoro",
+  "name": "guided-access-pomodoro",
   "version": "1.0.0",
   "description": "A zero-dependency Pomodoro widget with iOS Guided Access single-app focus guidance.",
   "license": "MIT",
   "private": false,
-  "homepage": "https://nyraseithhh.github.io/sillage-focus-pomodoro/demo/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/NyraSeithhh/sillage-focus-pomodoro.git"
+    "url": "https://github.com/NyraSeithhh/guided-access-pomodoro.git"
   },
-  "main": "src/sillage-pomodoro.js",
+  "main": "src/guided-access-pomodoro.js",
   "scripts": {
-    "check": "node --check src/sillage-pomodoro.js && node --check demo/demo.js"
+    "check": "node --check src/guided-access-pomodoro.js"
   },
   "keywords": [
     "pomodoro",
